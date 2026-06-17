@@ -1,0 +1,14 @@
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\bin\Debug\net10.0\TestedeMesa02.exe
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\bin\Debug\net10.0\TestedeMesa02.deps.json
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\bin\Debug\net10.0\TestedeMesa02.runtimeconfig.json
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\bin\Debug\net10.0\TestedeMesa02.dll
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\bin\Debug\net10.0\TestedeMesa02.pdb
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.AssemblyInfoInputs.cache
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.AssemblyInfo.cs
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.csproj.CoreCompileInputs.cache
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.dll
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\refint\TestedeMesa02.dll
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.pdb
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\TestedeMesa02.genruntimeconfig.cache
+C:\Users\alexsandraarrais\testedemesa02\testedemesa02\obj\Debug\net10.0\ref\TestedeMesa02.dll
